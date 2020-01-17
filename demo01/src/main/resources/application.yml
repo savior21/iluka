@@ -1,0 +1,7 @@
+#配置jdbc的连接信息
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/day1212?characterEncoding=utf-8
+    username: root
+    password: 1234
